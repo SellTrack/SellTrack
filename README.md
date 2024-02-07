@@ -1,1 +1,1 @@
-![snake gif](https://github.com/SellTrack/SellTrack/blob/output/github-contribution-grid-snake.gif)
+![Hi there. Im Selman](hi.svg).
