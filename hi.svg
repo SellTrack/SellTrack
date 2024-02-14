@@ -131,5 +131,5 @@
       </div>
     </div>
   </foreignObject>
-  <text style="fill: rgb(255, 255, 255); font-family: Roboto; font-size: 30px; font-weight: 900; paint-order: fill; stroke-width: 5px; white-space: pre;" x="106" y="57.882">Hi there, my name is Selman</text>
+  <text style="fill: rgb(255, 255, 255); font-family: Roboto; font-size: 30px; font-weight: 900; paint-order: fill; stroke-width: 5px; white-space: pre;" x="106" y="57.882" class="container">Hi there, my name is Selman</text>
 </svg>
